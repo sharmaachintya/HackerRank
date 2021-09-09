@@ -1,1 +1,1 @@
-### My All Submissions related to Python on HackerRank :)
+### My All Python Submissions on HackerRank :)
